@@ -176,5 +176,5 @@ function getBestScore() {
     localStorage.setItem("memory_game_clicks", 0);
   }
 }
-
+//comment
 getBestScore();
